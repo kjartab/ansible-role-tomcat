@@ -1,0 +1,5 @@
+---
+# defaults file for tomcat
+tomcat: 
+  enable_cors: True
+  
