@@ -1,4 +1,4 @@
 ---
 # tasks file for tomcat
-- apt: name=tomcat state=present
+- apt: name=tomcat7 state=present
 
